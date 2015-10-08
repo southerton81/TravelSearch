@@ -1,5 +1,7 @@
 # TravelSearch
 
+Makes cityname suggestions to the user input by fetching data from api.goeuro.com.
+
 Library gson-2.2.4 used for json parsing.
 
 Library svg-android-1.1 used for adding reolution independent image drawable on button.
